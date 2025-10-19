@@ -1,9 +1,12 @@
 Leave Management System (Salesforce)
+
 📌 Project Overview
+
 The Leave Management System is a Salesforce-based application designed for IT companies to streamline employee leave requests.
 Employees can request leaves, and managers can approve or reject them. The system also provides reports and dashboards for HR to monitor leave trends.
 
 🚀 Features
+
 Employee Records: Maintain employee details (Name, Email, Department).
 Leave Requests: Employees can request Sick, Casual, or Earned leave.
 Automation:
